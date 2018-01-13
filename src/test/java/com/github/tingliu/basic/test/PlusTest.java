@@ -3,7 +3,8 @@ package com.github.tingliu.basic.test;
 import org.junit.Test;
 
 /**
- * @HuangY
+ * 总结：i++ 最终去相加的都是中间变量 temp，请看例子
+ * @author tingliu
  * @create 2017-12-19 11:11
  **/
 public class PlusTest {

@@ -106,7 +106,7 @@ public class PlusTest {
         /**
          *  c=0
          *  temp=c // temp =0
-         *  c=c+1 // c=1
+         *  c=temp+1 // c=1
          *  c=c+1 // c=2
          *
          *  temp+c=0-2=-2

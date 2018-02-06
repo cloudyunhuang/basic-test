@@ -27,7 +27,7 @@ public class StringTest {
         int radix2 =240;
         radix2 >>= 4;
         System.out.println(radix2);
-        System.out.println(Integer.toBinaryString(240));
+        System.out.println(Integer.toBinaryString(97));
 
     }
     @Test
